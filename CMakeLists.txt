@@ -7,3 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 
 add_executable(MyExecutable main.cpp)
+
+
+RANDOM STUFF???
